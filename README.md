@@ -1,5 +1,5 @@
 # CALMYA-Mental-health-chatbot
-<img width="942" alt="image" src="https://github.com/user-attachments/assets/099eb245-aa8a-4c3c-97d6-fd6e0134d89f">
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/ca054569-fbb8-4430-9a40-97c10e041822">
 <h1>Description</h1>
 Calmya is built using HTML, CSS, JavaScript, Node.js, and Hugging Face API, designed as a mental health support tool for students. The chatbot offers empathetic, real-time responses to user queries, promoting mental well-being through engaging interactions.
 <p></p>
